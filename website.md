@@ -51,6 +51,3 @@
 - More oversight required
 - Less ownership and control of data and design
 
-## Blend of Static and Dynamic
-
-
